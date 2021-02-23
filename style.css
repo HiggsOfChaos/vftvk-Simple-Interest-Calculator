@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: black;
 	color: black;
 	font-family: 'Arial';
 }
@@ -15,7 +15,7 @@ h1 {
 	width: 300px;
 	border-radius: 25px;
 	margin: auto;
-	border: 1px solid;
+
 
 }
 
