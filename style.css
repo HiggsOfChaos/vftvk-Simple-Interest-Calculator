@@ -15,6 +15,7 @@ h1 {
 	width: 300px;
 	border-radius: 25px;
 	margin: auto;
+	border: 1px solid;
 
 }
 
@@ -28,5 +29,8 @@ h1 {
 }
 
 label {
-	margin-right: 10px;
+
+	display: inline-block;
+	margin-right: 5px;
+	min-width: 80px;
 }
